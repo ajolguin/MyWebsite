@@ -17,10 +17,15 @@ class Contact extends Component {
 
       <ul>
         <li>
-        LinkedIn: https://www.linkedin.com/in/ajolguin
+        <a href="https://www.linkedin.com/in/ajolguin">LinkedIn</a>
         </li>
+
         <li>
-        GitHub: https://www.GitHub.com/ajolguin
+        <a href="https://www.GitHub.com/ajolguin">GitHub</a>
+        </li>
+
+        <li>
+        Email: ajolguin@ucsb.edu
         </li>
       </ul>
 

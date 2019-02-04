@@ -11,6 +11,10 @@ class Projects extends Component {
         Project Involvement
       </h1>
 
+      <p>
+      These are some of the projects that I have worked on! Take a look:
+      </p>
+
     	</div>
     );
   }
